@@ -1,4 +1,4 @@
-# Sppech_recognition
+# Speech_recognition
 
 Speech Recognition for Voice controlled applications and use cases.
 We have voice assistants like alexa, google home ,that need smart phone.similar on embedded to avoid smartphone.
